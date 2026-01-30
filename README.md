@@ -5,6 +5,7 @@
 **TeachMeApp** is a sophisticated full-stack platform designed to facilitate seamless online education. It features a robust marketplace for creating and booking course offers, real-time communication capabilities (video calls and chat), and secure payment processing. Built with the MERN stack and modern cloud services, it demonstrates a scalable architecture for meaningful user interactions.
 
 ---
+![alt text](home.png)
 
 ## ✨ Key Features
 
